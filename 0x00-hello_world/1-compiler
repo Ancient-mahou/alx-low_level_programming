@@ -1,2 +1,2 @@
 #!/bin/bash
-ggc -c $CFILE -o
+ggc -c $CFILE -o ${CFILE%.*}.o
