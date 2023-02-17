@@ -6,7 +6,7 @@
  *
  * Discription: A C program that prints if the number is postive or negative
  *
- * Retrun: Always 0 (Success)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
