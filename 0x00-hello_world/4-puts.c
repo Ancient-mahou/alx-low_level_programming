@@ -8,8 +8,8 @@
  * Return: Always 0 (Success)
  */
 
-int main(void){
-
-	puts("Programing is like buidling a multilingual puzzle\n");
+int main(void)
+{
+	puts("\"Programing is like buidling a multilingual puzzle\n");
 	return (0);
 }
