@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- *
  * main - Entry point
  *
  * Description: A C program that prints without the printf and puts functions
