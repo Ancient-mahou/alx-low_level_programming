@@ -2,7 +2,7 @@
 
 /**
  * get_nodeint_at_index - returns the nth node of a linked list
- * @head: head of a list.
+ * @head: headssssssss of a list.
  * @index: index of the node.
  *
  * Return: nth node. If node does not exist, returns NULL.
