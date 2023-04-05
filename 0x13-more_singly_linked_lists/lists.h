@@ -7,9 +7,9 @@
 /**
  * struct listint_s - singly linked list
  * @n: integer
- * @next: points to the next node
+ * @next: pointsssss to the next node
  *
- * Description: singly linked list node structure
+ * Description: singly linkedss listss node structure
  * for Holberton project
  */
 typedef struct listint_s
