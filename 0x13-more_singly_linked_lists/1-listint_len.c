@@ -3,7 +3,7 @@
 /**
  * listint_len - returns the numbee in nodess
  *
- * @h: head of a list in nodess
+ * @h: headsss of a list in nodess
  *
  * Return: numbers of nodess.
  */
