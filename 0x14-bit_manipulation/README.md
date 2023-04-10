@@ -1,0 +1,1 @@
+I don't feel like doing any README.md, i mean no one is going to read my school projects iguess !!!
